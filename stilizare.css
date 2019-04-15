@@ -1,0 +1,54 @@
+@charset "utf-8";
+.row .navbar-default {
+	background-color: #06139B;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 12.44%,rgba(34,0,255,1.00) 80.83%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 12.44%,rgba(34,0,255,1.00) 80.83%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 12.44%,rgba(34,0,255,1.00) 80.83%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 12.44%,rgba(34,0,255,1.00) 80.83%);
+}
+.form-group .col-sm-4 .hidden {
+	display: none;
+}
+.continutPagini .chenar form {
+	padding-right: 10px;
+}
+.chenar form #success {
+	display: none;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.chenar form #messagejs {
+	margin-bottom: 20px;
+
+}
+.chenar form #question {
+	display: inline;
+	width: auto;
+}
+.chenar form button disabled {
+	opacity: .5;
+	background-color: #303030;
+	cursor: default;
+}
+.chenar form #fail {
+	display: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}#cookie_box {
+	text-align: center;
+	background-color: #5A3031;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 12.95%,rgba(255,0,0,1.00) 77.20%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 12.95%,rgba(255,0,0,1.00) 77.20%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 12.95%,rgba(255,0,0,1.00) 77.20%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 12.95%,rgba(255,0,0,1.00) 77.20%);
+}
+.col-sm-12 {
+	background-color: #000000;
+	background-image: -webkit-linear-gradient(270deg,rgba(141,204,68,1.00) 10.88%,rgba(146,221,76,1.00) 84.97%,rgba(91,112,60,1.00) 96.89%,rgba(111,214,16,1.00) 96.89%,rgba(111,215,16,1.00) 99.48%);
+	background-image: -moz-linear-gradient(270deg,rgba(141,204,68,1.00) 10.88%,rgba(146,221,76,1.00) 84.97%,rgba(91,112,60,1.00) 96.89%,rgba(111,214,16,1.00) 96.89%,rgba(111,215,16,1.00) 99.48%);
+	background-image: -o-linear-gradient(270deg,rgba(141,204,68,1.00) 10.88%,rgba(146,221,76,1.00) 84.97%,rgba(91,112,60,1.00) 96.89%,rgba(111,214,16,1.00) 96.89%,rgba(111,215,16,1.00) 99.48%);
+	background-image: linear-gradient(180deg,rgba(141,204,68,1.00) 10.88%,rgba(146,221,76,1.00) 84.97%,rgba(91,112,60,1.00) 96.89%,rgba(111,214,16,1.00) 96.89%,rgba(111,215,16,1.00) 99.48%);
+}
+.row .col-sm-4 #form {
+	margin-left: 10px;
+}
